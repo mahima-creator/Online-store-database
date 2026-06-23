@@ -1,4 +1,4 @@
-# Online-store-database
+
 # Online Store Database (SQL)
 
 ## Description
